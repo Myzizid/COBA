@@ -1,0 +1,6 @@
+{
+  "name": "SIMBADA - Portal Pengelolaan Barang Milik Daerah",
+  "description": "Sistem Informasi Manajemen Barang Milik Daerah (BMD) terpadu: inventarisasi KIB A-F, WebGIS aset, jadwal pemeliharaan, optimalisasi PAD & pemanfaatan, penghapusan, dan pengaduan aset publik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
